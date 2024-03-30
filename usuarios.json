@@ -1,0 +1,20 @@
+{
+    "usuarios": [
+        {
+            "username": "usuario1",
+            "password": "contrase\u00f1a1"
+        },
+        {
+            "username": "usuario2",
+            "password": "contrase\u00f1a2"
+        },
+        {
+            "username": "usuario3",
+            "password": "nueva_contrase\u00f1a"
+        },
+        {
+            "username": "juan639",
+            "password": "pruebasjuan"
+        }
+    ]
+}
